@@ -1,0 +1,20 @@
+Changelog:-
+CSX July 13, 2022
+As Always Not A GSI/SGSI
+- Reworked Vendor (New Stable Semi MIUI Vendor Port)
+- Debloated As Much As Possible
+- Rom Decrypted By Default
+- Using OOF Flasher ( Installation Takes Less Than 1Min)
+- Nuked RR Settings And Useless Shit
+Added CSX Walls
+- Fixed System Wide Haptics
+- Fixed QS Tile Flashlight
+- Fixed Autobrightness
+- Fixed Audio
+- Fixed Provision
+- Fixed Hotspot
+- Fixed FP (FP Works Blazing Fast Now Check Ur Self)
+- Numerous Changes In Props To Fix UI Stutters
+- Completely Fixed UI Lags
+
+Much Much More....................
